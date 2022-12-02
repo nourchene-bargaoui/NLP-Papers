@@ -1,7 +1,7 @@
 # NLP-Papers
 
 
-|   Year | Venue    | Title                                                                                                                                                                           |
+|   Year | FROM    | Title                                                                                                                                                                           |
 |-------:|:---------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   2018 | EMNLP    | [Memory, Show the Way: Memory Based Few Shot Word Representation Learning](https://aclanthology.org/D18-1173.pdf)                                                               |
 |   2018 | EMNLP    | [Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces](https://aclanthology.org/D18-1352.pdf)                                                                |
@@ -109,10 +109,3 @@
 |   2021 | Findings | [Learning to Bridge Metric Spaces: Few-shot Joint Learning of Intent Detection and Slot Filling](https://aclanthology.org/2021.findings-acl.282.pdf)                            |
 |   2021 | Findings | [Few-Shot Upsampling for Protest Size Detection](https://aclanthology.org/2021.findings-acl.325.pdf)                                                                            |
 |   2021 | Findings | [Reordering Examples Helps during Priming-based Few-Shot Learning](https://aclanthology.org/2021.findings-acl.395.pdf)                                                          |
-
-
-## Licenses
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Zhihong Chen](https://github.com/zhjohnchan) has waived all copyright and related or neighboring rights to this work.
