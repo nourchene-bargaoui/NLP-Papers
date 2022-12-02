@@ -106,6 +106,5 @@
 |   2021 | Findings | [Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection](https://aclanthology.org/2021.findings-acl.214.pdf)                                           |
 |   2021 | Findings | [Don’t Miss the Labels: Label-semantic Augmented Meta-Learner for Few-Shot Text Classification](https://aclanthology.org/2021.findings-acl.245.pdf)                             |
 |   2021 | Findings | [Enhancing Zero-shot and Few-shot Stance Detection with Commonsense Knowledge Graph](https://aclanthology.org/2021.findings-acl.278.pdf)                                        |
-|   2021 | Findings | [Learning to Bridge Metric Spaces: Few-shot Joint Learning of Intent Detection and Slot Filling](https://aclanthology.org/2021.findings-acl.282.pdf)                            |
-|   2021 | Findings | [Few-Shot Upsampling for Protest Size Detection](https://aclanthology.org/2021.findings-acl.325.pdf)                                                                            |
-|   2021 | Findings | [Reordering Examples Helps during Priming-based Few-Shot Learning](https://aclanthology.org/2021.findings-acl.395.pdf)                                                          |
+
+
