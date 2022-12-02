@@ -1,6 +1,6 @@
 # NLP-Papers
 
-|   Year | Venue    | Title                                                                                                                                                                           |
+|   Year | from    | Title                                                                                                                                                                           |
 |-------:|:---------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   2018 | EMNLP    | [Memory, Show the Way: Memory Based Few Shot Word Representation Learning](https://aclanthology.org/D18-1173.pdf)                                                               |
 |   2018 | EMNLP    | [Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces](https://aclanthology.org/D18-1352.pdf)                                                                |
