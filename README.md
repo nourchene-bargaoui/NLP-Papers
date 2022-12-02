@@ -3,13 +3,12 @@
 
 |   Year | FROM    | Title                                                                                                                                                                           |
 |-------:|:---------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   2018 | EMNLP    | [Memory, Show the Way: Memory Based Few Shot Word Representation Learning](https://aclanthology.org/D18-1173.pdf)                                                               |
-|   2018 | EMNLP    | [Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces](https://aclanthology.org/D18-1352.pdf)                                                                |
+
+
 |   2018 | EMNLP    | [FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation](https://aclanthology.org/D18-1514.pdf)                             |
 |   2018 | NAACL    | [Diverse Few-Shot Text Classification with Multiple Metrics](https://aclanthology.org/N18-1109.pdf)                                                                             |
 |   2018 | COLING   | [Few-Shot Charge Prediction with Discriminative Legal Attributes](https://aclanthology.org/C18-1041.pdf)                                                                        |
 |   2019 | ACL      | [Multi-Level Matching and Aggregation Network for Few-Shot Relation Classification](https://aclanthology.org/P19-1277.pdf)                                                      |
-|   2019 | ACL      | [Few-Shot Representation Learning for Out-Of-Vocabulary Words](https://aclanthology.org/P19-1402.pdf)                                                                           |
 |   2019 | ACL      | [Give It a Shot: Few-shot Learning to Normalize ADR Mentions in Social Media Posts](https://aclanthology.org/W19-3219.pdf)                                                      |
 |   2019 | EMNLP    | [Hierarchical Attention Prototypical Networks for Few-Shot Text Classification](https://aclanthology.org/D19-1045.pdf)                                                          |
 |   2019 | EMNLP    | [Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations](https://aclanthology.org/D19-1334.pdf)                                              |
